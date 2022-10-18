@@ -1,3 +1,3 @@
 # Golang
 
-![[Pasted image 20221018125758.png]]
+![](attachments/Pasted%20image%2020221018125758.png)
