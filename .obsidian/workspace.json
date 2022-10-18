@@ -19,8 +19,12 @@
             "id": "f1c2ec4fb5202c4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "context/context.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "context/context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "context/context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "context/context.md"
+              }
             }
           }
         ]
@@ -140,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7242d7c83772e4cf",
+  "active": "f1c2ec4fb5202c4d",
   "lastOpenFiles": [
-    "README.md",
-    "attachments.md",
-    "().md",
     "syntax/syntax.md",
+    "synctax/synctax.md",
+    "README.md",
+    "().md",
+    "attachments.md",
     "syntax/context/cancel.md",
     "syntax/README.md",
     "未命名.md",
     "README.md.md",
-    "attachments/Pasted image 20221018125733.png",
-    "Pasted image 20221018125727.png"
+    "attachments/Pasted image 20221018125733.png"
   ]
 }
