@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0d254e3ab59297a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0785fac92412302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92a137a7eed1b0b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1c2ec4fb5202c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "syntax/context/cancel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4759351614c5cc4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e320c4976b7b6f39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7242d7c83772e4cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cef24004ecef83cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34b436289df20150",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd8d7ff66e7bff07",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27d9a2df48e0182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4b0ebf75df1366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "syntax/context/cancel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c258f15c1753908d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "syntax/context/cancel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa5233c7bdf751b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0d7d4af1b99fcfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "syntax/context/cancel.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f1c2ec4fb5202c4d",
+  "lastOpenFiles": [
+    "syntax/README.md",
+    "未命名.md",
+    "README.md.md",
+    "attachments/Pasted image 20221018125733.png",
+    "Pasted image 20221018125727.png",
+    "Pasted image 20221018125657.png",
+    "Pasted image 20221018125628.png",
+    "Pasted image 20221018124527.png"
+  ]
+}
